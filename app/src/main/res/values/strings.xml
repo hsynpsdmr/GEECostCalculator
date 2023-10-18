@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GEECostCalculator</string>
+    <string name="title_home">Home</string>
+    <string name="title_table">Table</string>
+
+    <!--home-->
+    <string name="service_number_hint">Abone Numarası</string>
+    <string name="current_meter_hint">Sayaç Endeks</string>
+    <string name="submit_button">Gönder</string>
+    <string name="save_button">Kaydet</string>
+    <string name="consumption_cost">Anlık Tüketim Maliyeti : </string>
+</resources>
